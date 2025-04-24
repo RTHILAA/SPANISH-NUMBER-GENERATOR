@@ -4,7 +4,7 @@ A simple web application that generates random Spanish phone numbers with the +3
 
 ## Live Demo : 
 
-🔗 [Spanish Number Generator](https://rthilaa-faqs.netlify.app/)
+🔗 [Spanish Number Generator](https://spanish-number-generator.netlify.app/)
 
 We would appreciate it if you decide to use this project. Please include credit when using it. Thank you! 🙏 
 
