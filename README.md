@@ -66,4 +66,4 @@ For inquiries, please reach out to:
 - 👨🏻‍💻 **Name** : ANASS EL HARAZI
 - 📧 **Email** : [anaswins35@gmail.com](mailto:anaswins35@gmail.com)
 
-Thank you for visiting Generate Spanish Number ❤
+Thank you for visiting Generate Spanish Number ❤Thank you for visiting Spanish Number Generator ❤
